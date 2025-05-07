@@ -1,7 +1,7 @@
 basic:
-    name: 'Mann, Hagenes and Kub'
+    name: "D'Amore Ltd"
     environments:
-        production: 'https://www.torp.biz/fuga-placeat-officia-voluptatem-fugiat-natus'
+        production: 'https://www.kemmer.biz/quia-animi-vitae-eum-voluptate-dolor-consequatur'
         staging: ''
         development: ''
     breakpoints:
